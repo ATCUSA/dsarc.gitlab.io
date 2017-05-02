@@ -1,0 +1,17 @@
+---
+layout: post
+title: 2/21/2017 Meeting
+date: '2017-02-21 21:46:10'
+tags:
+- meeting
+---
+
+####Agenda:
+18:30 - Meet and greet
+19:00 - Start Meeting
+19:30 - Close meeting and start training Q&A
+
+####Topics:
+Intro to navigation.
+
+For more information about the meetings [Click Here](https://dsarc.us/meetings/).
