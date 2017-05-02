@@ -6,7 +6,7 @@ tags:
 - minutes
 ---
 
-####Minutes of Do Something Club 1/24/17:
+#### Minutes of Do Something Club 1/24/17:
 
 ---
 
@@ -67,4 +67,4 @@ ramsey ki7bsw
 
 ---
 
-[Download PDF Here](https://s3-us-west-2.amazonaws.com/palouse-web/DSARC/Minutes/2017/2-7-17+--+DSARC+Meeting+Minutes.pdf "target="_blank)
+[Download PDF Here](https://s3-us-west-2.amazonaws.com/palouse-web/DSARC/Minutes/2017/2-7-17+--+DSARC+Meeting+Minutes.pdf){:target="_blank"}

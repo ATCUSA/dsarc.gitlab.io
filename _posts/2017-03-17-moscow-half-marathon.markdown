@@ -6,4 +6,6 @@ tags:
 - events
 ---
 
-**Cancelled!** This event has been cancelled and volunteer support will no longer be needed. Thanks to all who volunteered!
+**Cancelled!**
+
+This event has been cancelled and volunteer support will no longer be needed. Thanks to all who volunteered!

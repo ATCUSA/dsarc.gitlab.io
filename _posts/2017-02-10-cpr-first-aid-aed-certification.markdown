@@ -7,17 +7,18 @@ tags:
 ---
 
 ---
-###CPR, First Aid, AED Certification Class
+### CPR, First Aid, AED Certification Class
 
 ---
+
 **What:**
-DSARC will be hosting a CPR, First Aid, AED certification class. This class will allow you the opportunity to obtain a certificate from the [AHA](http://www.heart.org/HEARTORG/ "target="_blank) (American Heart Association).
+DSARC will be hosting a CPR, First Aid, AED certification class. This class will allow you the opportunity to obtain a certificate from the [AHA](http://www.heart.org/HEARTORG/){:target="_blank"} (American Heart Association).
 
 **Why:** To learn life saving skills that will help you protect your friends, family, and community.
 
 **When:** Febuary 18th @ 0900
 
-**Where:** Northwest Radio Supply [(Click here for map and directions)](https://goo.gl/maps/XWiuiahSFLF2 "target="_blank)
+**Where:** Northwest Radio Supply [(Click here for map and directions)](https://goo.gl/maps/XWiuiahSFLF2){:target="_blank"}
 
 **How Much:**
 While the class itself is free, it costs $15 to receive your certificate.

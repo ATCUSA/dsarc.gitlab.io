@@ -8,7 +8,7 @@ tags:
 
 After tallying the votes we will be meeting on Tuesday the 24th. This meeting will designate the first official club meeting, so please try to attend and see what we're up to.
 
-For more information about the meetings [Click Here](https://dsarc.us/meetings/ "target="_blank).
+For more information about the meetings [Click Here](https://dsarc.us/meetings/){:target="_blank"}.
 
 **Agenda:**
 

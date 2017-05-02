@@ -6,7 +6,7 @@ tags:
 - minutes
 ---
 
-####Minutes of Do Something Club 1/24/17:
+#### Minutes of Do Something Club 1/24/17:
 
 ---
 

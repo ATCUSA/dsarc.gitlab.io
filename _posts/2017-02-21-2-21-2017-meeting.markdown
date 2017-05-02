@@ -6,12 +6,12 @@ tags:
 - meeting
 ---
 
-####Agenda:
+#### Agenda:
 18:30 - Meet and greet
 19:00 - Start Meeting
 19:30 - Close meeting and start training Q&A
 
-####Topics:
+#### Topics:
 Intro to navigation.
 
 For more information about the meetings [Click Here](https://dsarc.us/meetings/).

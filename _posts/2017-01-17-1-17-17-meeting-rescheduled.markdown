@@ -12,4 +12,4 @@ I wanted to let everyone know that the meeting for Tuesday the 17th is going to 
 
 Austin (KF7SIW)
 
-[Click Here](http://eepurl.com/cxVZq1 "target="_blank)
+[Click Here](http://eepurl.com/cxVZq1){:target="_blank"}
