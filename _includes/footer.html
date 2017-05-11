@@ -22,15 +22,15 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
+          {% if site.gitlab_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            <a href="https://gitlab.com/{{ site.gitlab_username }}" target="_blank"><span class="icon icon--github"><i class="fa fa-gitlab" aria-hidden="true"></i></span><span class="username">{{ site.gitlab_username }}</span></a>
           </li>
           {% endif %}
 
           {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><span class="icon icon--twitter"><i class="fa fa-twitter" aria-hidden="true"></i></span><span class="username">{{ site.twitter_username }}</span></a>
           </li>
           {% endif %}
         </ul>
