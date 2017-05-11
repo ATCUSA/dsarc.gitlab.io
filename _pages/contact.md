@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Contact Us
-date: '2017-01-04 02:08:02'
+permalink: /contact/
 ---
 
 <form action="https://formspree.io/contact@dsarc.us" method="POST">

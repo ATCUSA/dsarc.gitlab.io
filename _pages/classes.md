@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: Classes
-date: '2017-02-10 19:35:06'
-tags:
-- static
+permalink: /classes/
 ---
 
 ### [CPR, First Aid, AED Certification](/cpr-first-aid-aed-certification)

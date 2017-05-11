@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: Donations
-date: '2017-02-23 01:58:35'
-tags:
-- static
+permalink: /donations/
 ---
 
 <button onclick="window.location.href='https://zohosecurepay.com/checkout/pkto7lw-pmkpc0nwgxgfz/Donations'">Click to Donate</button>

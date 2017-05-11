@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: Minutes
-date: '2017-02-08 02:11:43'
-tags:
-- minutes
+permalink: /minutes/
 ---
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">

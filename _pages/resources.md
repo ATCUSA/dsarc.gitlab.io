@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: Resources
-date: '2017-02-09 00:55:14'
-tags:
-- static
+permalink: /resources/
 ---
 
 ### APRS

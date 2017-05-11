@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: Training
-date: '2017-01-30 05:21:20'
-tags:
-- training
+permalink: /training/
 ---
 
 **FEMA Training**   

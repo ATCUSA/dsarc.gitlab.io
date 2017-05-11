@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Meetings
-date: '2017-01-04 01:47:30'
+permalink: /meetings/
 ---
 
 The Do Something Club meets at 19:00 PST on the 1st and 3rd Tuesdays of every month at Northwest Radio Supply in Moscow Idaho.
