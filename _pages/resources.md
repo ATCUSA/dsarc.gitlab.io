@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
+comments: true
 ---
 
 ### APRS

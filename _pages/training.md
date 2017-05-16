@@ -2,6 +2,7 @@
 layout: page
 title: Training
 permalink: /training/
+comments: true
 ---
 
 **FEMA Training**   
