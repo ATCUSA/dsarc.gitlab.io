@@ -1,0 +1,25 @@
+---
+layout: page
+title: Minutes
+permalink: /minutes/
+---
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <div class="panel panel-default">
+      {% for post in site.tags.minutes %}
+      {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+      {% if currentyear != year %}
+      <div class="panel-heading">
+        <div class="panel-title">
+          <h3>{{ currentyear }}</h3>
+        </div>
+      </div>
+      {% capture year %}{{currentyear}}{% endcapture %}
+      {% endif %}
+      <div class="list-group list-unstyled">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item">{{ post.title }}</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
