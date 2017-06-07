@@ -1,59 +1,47 @@
-<!-- Latest compiled and minified FullCalendar and Moment -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.css" integrity="sha256-Kpo67ZL4Mq+OPqdedHe9lvnMI6i6gZOI1+7NqujLdq0=" crossorigin="anonymous" />
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.print.min.css" integrity="sha256-O3Oq9/mud7866SStmc+zBcjkPs2PY/I/MhETci3wOrg=" crossorigin="anonymous" />
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js" integrity="sha256-1hjUhpc44NwiNg8OwMu2QzJXhD8kcj+sJA3aCQZoUjg=" crossorigin="anonymous"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.js" integrity="sha256-SYIz/7Qe8avYdBE3w2kKVL1PB/mS05GGgKVn5qa86SY=" crossorigin="anonymous"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/gcal.min.js" integrity="sha256-5axzynoOFRH6xONzFE7ASn7hp2OiD0A8+i52FpQuZRY=" crossorigin="anonymous"></script>
-
-<!-- Init FullCalendar -->
-<script type='text/javascript'>
-$(document).ready(function() {
-  $('#calendar').fullCalendar({
-    header: {
-      left: 'prev,next today',
-      center: 'title',
-      right: 'month,agendaWeek,agendaDay,listYear'
-    },
-    defaultView: 'month',
-    googleCalendarApiKey: 'AIzaSyDyMoDpMndtgfhh62g_B9Gr5YrXhSBMhmI',
-    events: {
-      googleCalendarId: 'pkr1feh376liutlgs84gd0bjmo@group.calendar.google.com'
-    },
-    eventClick: function(event) {
-			// opens events in a popup window
-			window.open(event.url, 'gcalevent', 'width=700,height=600');
-			return false;
-		},
-    loading: function(bool) {
-			$('#loading').toggle(bool);
-		}
-  });
-});
-</script>
-
 <style>
 
-	body {
-		margin: 40px 10px;
-		padding: 0;
-		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
-		font-size: 14px;
-	}
+#loading {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
 
-	#loading {
-		display: none;
-		position: absolute;
-		top: 10px;
-		right: 10px;
-	}
 
-	#calendar {
-		max-width: 900px;
-		margin: 0 auto;
-	}
 
 </style>
+
+<div id='loading'>loading...</div>
+
+<div id='calendar'></div>
+
+<script>
+  $(document).ready(function() {
+    $('#calendar').fullCalendar({
+      header: {
+        left: 'prev,next today',
+        center: 'title',
+        right: 'month,listMonth'
+      },
+      defaultView: 'month',
+      googleCalendarApiKey: 'AIzaSyDyMoDpMndtgfhh62g_B9Gr5YrXhSBMhmI',
+      events: {
+        googleCalendarId: 'pkr1feh376liutlgs84gd0bjmo@group.calendar.google.com'
+      },
+      eventClick: function(event) {
+  			// opens events in a popup window
+  			window.open(event.url, 'gcalevent', 'width=700,height=600');
+  			return false;
+  		},
+      loading: function(bool) {
+  			$('#loading').toggle(bool);
+  		}
+    });
+  });
+</script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.css" integrity="sha256-Kpo67ZL4Mq+OPqdedHe9lvnMI6i6gZOI1+7NqujLdq0=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.js" integrity="sha256-SYIz/7Qe8avYdBE3w2kKVL1PB/mS05GGgKVn5qa86SY=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/gcal.min.js" integrity="sha256-5axzynoOFRH6xONzFE7ASn7hp2OiD0A8+i52FpQuZRY=" crossorigin="anonymous"></script>
