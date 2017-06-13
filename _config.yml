@@ -1,6 +1,6 @@
 title: Do Something Amateur Radio Club
 email: contact@dsarc.us
-description: > The Do Something Amateur Radio Club is based out of Moscow, Idaho. This club was founded for those Ham radio operators who actually want to get out and do activities. While we are primarily an amateur radio club, we also focus on emergency communications, preparedness, and response. DSARC is also proud to support the Latah Aux Comm Team in it's training efforts.
+description: > # The Do Something Amateur Radio Club is based out of Moscow, Idaho. This club was founded for those Ham radio operators who actually want to get out and do activities. While we are primarily an amateur radio club, we also focus on emergency communications, preparedness, and response. DSARC is also proud to support the Latah Aux Comm Team in it's training efforts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dsarc.us" # the base hostname & protocol for your site, e.g. http://example.com
 
