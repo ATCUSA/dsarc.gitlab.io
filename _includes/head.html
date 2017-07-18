@@ -25,6 +25,12 @@
   <!-- Latest compiled and minified Boostrap JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+  <!-- Custom Scripts -->
+  {% if page.calendar %}
+    <!-- Calendar Defined -->
+    <script src="/js/fullcalendar.js"></script>
+  {% endif %}
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include google-analytics.html %}
   {% endif %}
