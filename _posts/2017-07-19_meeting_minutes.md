@@ -1,0 +1,67 @@
+---
+layout: post
+title: 7/18/17 Meeting Minutes
+date: '2017-07-18eew 22:50:04'
+tags:
+- minutes
+---
+
+
+##DSARC Meeting Minutes 2017-07-18
+
+###Called to order at 19:03 PDT
+
+Present: Nick Hewes AF7ZJ, Bill Ward K9GRZ, Tom Luther KG7DKN, Clinton Wiersch KG7IDT,Heather Cole KG7BUB, Austin Cole KF7SIW
+
+####Field Day Debrief:  
+We set up at Spring Valley near Troy, Idaho. Had a trailer and a tent. Had about a dozen bystanders come by. The G5RV was set at an angle but it worked, especially Sunday morning. Also, ran QRP on digital with verticals.  Overall not a lot contacts. 
+
+* Set up for next year: 
+    * Set up G5RV sooner.
+    * Get trailer modifications finished. 
+    * Go through trailer the weekend before.
+    * Add a bench for seating and storage. 
+    * Make check lists for Field Day/trailer inventory. 
+    
+* Additions for 2017: 
+    * New signs for DSARC events. 
+    * We have a webserver on Raspberry Pi 3.
+        * Content: Ham radio related software, manuals, copies of ham related websites.
+        * Auto updates content. 
+        * New documents and software can be uploaded on the fly. 
+        * Library of digital modes with images and sounds for reference. 
+        * The Raspberry Pi is also a time server (via GPS reference) for time sensitive applications like Field Day logging.
+        * Goal is to provide an image of the server for anyone to download and use hosted on the [DSARC Gitlab](https://gitlab.com/dsarc)
+
+####Discussion topic: Hams at the park:  
+One day a month pick a park, bring food and drinks. Only minimal advertising. 
+
+* Setup:
+    * Could set up digital radios side by side for amateur radio email demo and practice.
+    * Rotate locations. Pullman, Troy, Palouse, etc. 
+    * Bring out Latah Aux Comm trailer. 
+
+####Other ideas/events mentioned:  
+
+* Collaborate with other ham clubs to have a booth at events in smaller towns. Suggested by Don in Orifino and Tom Luther 
+* People in towns affected by the fires two years ago were frustrated with the lack of communication generating interest in ham radio. Towns like Kamiah, Kooski, etc.
+* We have a standing invitation from the Hells Gate club to join them for meetings.
+* Have an event for the solar eclipse on August 21st. Hams at the park for the eclipse? 
+* August 5th or 6th digital radio practice/training/demo hosted by Latah Aux Comm. more details will be provided.
+* Reminder from Bill for September 10th event Moscow Mtn Madness needs volunteers. 8-12 people preferred though only one at each station needs to be licensed. Two people per aid station and there are five stations.
+* Vanity email available to club members/participants. Forward only address of the format Callsign@dsarc.us. Must attend two meetings per quarter to qualify.
+* Latah County Aux Comm Update: 
+    * Still waiting for the five couties to sign the MOU. 
+    * Will open member applications soon. A back ground check and ICS certs required. Latah County SAR requirements are similar and will likely be enough to qualify.
+* Starting in August we are attempting a digital net.
+
+####Technician Class:  
+* 6-12 people signed up.
+* Tentatively end of August - beginning of Sept.
+    * Location TBD on quantity of attendees:  more than six, we got to the Latah County courthouse, six or less DSARC meeting area. 
+* Some interest from PCSAR. 
+* Checkout gear available to DSACR memebrs: KPC3 VHF 1200 baud TNC and older model Rigblaster sound card.
+* DSARC website will be keep it more up to date!
+
+###Meeting Adjourned at 20:01 PDT
+
