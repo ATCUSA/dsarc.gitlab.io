@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 7/18/17 Meeting Minutes
-date: '2017-07-18eew 22:50:04'
+title: '7/18/17 Meeting Minutes'
+date: '2017-07-18 22:50:04'
 tags:
 - minutes
 ---
