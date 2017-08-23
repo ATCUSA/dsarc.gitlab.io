@@ -2,6 +2,7 @@
 layout: post
 title: CPR, First Aid, AED Certification
 date: '2017-02-10 19:35:37'
+permalink: /classes/cpr-first-aid-aed-certification
 tags:
 - classes
 ---
