@@ -6,7 +6,7 @@ comments: true
 ---
 
 ## Upcoming
-### [Tech License Class](/tech-class)
+### [Tech License Class](/classes/tech-class)
 
 ## Past
-### [CPR, First Aid, AED Certification](/cpr-first-aid-aed-certification)
+### [CPR, First Aid, AED Certification](/classes/cpr-first-aid-aed-certification)
