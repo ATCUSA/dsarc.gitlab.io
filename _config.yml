@@ -20,6 +20,15 @@ disqus:
 include:
   - _pages
 
+# Collections
+collections:
+  classes:
+    output: true
+    permalink: /:collection/:path/
+  minutes:
+    output: true
+    permalink: /:collection/:path/
+
 # Site settings
 paginate: 5
 
