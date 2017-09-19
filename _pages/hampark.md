@@ -16,4 +16,11 @@ Lunch will be available for a small cost as a fundraiser for the club. We also w
 {: .table .table-bordered . table-striped .table-condensed}
 | Date       | Park          | Nearby Town | County | State |
 |------------|---------------|-------------|--------|-------|
+| 9/30/17    | Palouse, WA   | Palouse     | Whitman| WA    |
+
+### Past Parks
+
+{: .table .table-bordered . table-striped .table-condensed}
+| Date       | Park          | Nearby Town | County | State |
+|------------|---------------|-------------|--------|-------|
 | 8/19-20/17 | Robinson Park | Moscow      | Latah  | ID    |
