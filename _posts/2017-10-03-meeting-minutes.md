@@ -6,7 +6,8 @@ tags:
 - minutes
 ---
 
-#### DSARC Meeting, October 3, 2017
+#### DSARC Meeting Minutes
+10/03/2017
 
 Approved meeting minutes from the last meeting.  ~~Which never got published.  Sigh~~ (Published 2017-10-04)
 
