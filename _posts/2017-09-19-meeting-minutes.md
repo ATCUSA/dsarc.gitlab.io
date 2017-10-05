@@ -1,9 +1,10 @@
+---
 layout: post
 title: '7/18/17 Meeting Minutes'
 date: '2017-07-18 22:50:04'
 tags:
 - minutes
-
+---
 
 #### DSARC Meeting Minutes  
 Started at 7:20pm - 8:10pm (2017-09-19)  
