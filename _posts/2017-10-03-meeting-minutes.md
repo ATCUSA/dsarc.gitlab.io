@@ -10,16 +10,16 @@ tags:
 
 Approved meeting minutes from the last meeting.  ~~Which never got published.  Sigh~~ (Published 2017-10-04)
 
-Attendance not recorded by secretary. Sigh.
-Evan
-Brett
-Austin
-Bill W
-Tom L
-Zach
-Heather
-Nick
-dog
+Attendance not recorded by secretary. Sigh.  
+Evan  
+Brett  
+Austin  
+Bill W  
+Tom L  
+Zach  
+Heather  
+Nick  
+dog  
 
 * Hams In The Park debrief
     * Seven attendees, plus three dogs
