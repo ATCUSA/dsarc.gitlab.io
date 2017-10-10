@@ -14,13 +14,14 @@ Lunch will be available for a small cost as a fundraiser for the club. We also w
 ### Upcoming Parks
 
 {: .table .table-bordered . table-striped .table-condensed}
-| Date       | Park          | Nearby Town | County | State |
-|------------|---------------|-------------|--------|-------|
-| 9/30/17    |Heritage Park  | Palouse     |Whitman | WA    |
+| Date       | Park                                                                         | Nearby Town | County | State |
+|------------|------------------------------------------------------------------------------|-------------|--------|-------|
+| 10/15-15/17| [Spring Valley Reservoir](https://goo.gl/maps/yLVPgoZnVMq){:target="_blank"} | Troy        |Latah   | ID    |
 
 ### Past Parks
 
 {: .table .table-bordered . table-striped .table-condensed}
 | Date       | Park          | Nearby Town | County | State |
 |------------|---------------|-------------|--------|-------|
+| 9/30/17    |Heritage Park  | Palouse     |Whitman | WA    |
 | 8/19-20/17 | Robinson Park | Moscow      | Latah  | ID    |
