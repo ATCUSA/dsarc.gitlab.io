@@ -1,6 +1,11 @@
 {
-  "short_name": "DSARC",
   "name": "Do Something Amateur Radio Club",
+  "short_name": "DSARC",
+  "theme_color": "#737373",
+  "background_color": "#737373",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "https://dsarc.keybase.pub/website_files/favicon/android-icon-96x96.png",
@@ -17,8 +22,5 @@
       "sizes": "192x192",
       "type": "image/png"
     }
-  ],
-  "start_url": "/index.html",
-  "display": "standalone",
-  "orientation": "portrait"
+  ]
 }
