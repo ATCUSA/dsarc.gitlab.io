@@ -5,3 +5,34 @@ calendar: true
 <h1>Welcome to the DSARC Website.</h1>
 <h3 class="well text-center">We are aware that our site looks plain, but we are working on making it awesome.<br />
 Thanks for your understanding.</h3>
+<div class="row">
+  <!-- Left Column -->
+  <div class="col-md-8">
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      <p class="author">
+        <span class="date">{{ post.date }}</span>
+      </p>
+    {% endfor %}
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      {% else %}
+      <span class="previous">Previous</span>
+      {% endif %}
+      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      {% else %}
+      <span class="next ">Next</span>
+      {% endif %}
+    </div>
+    <!-- End Pagination links -->
+  </div>
+  <!-- Right Column -->
+  <div class="col-md-4">
+    {% include upcomingEvents.html %}
+  </div>
+</div>
