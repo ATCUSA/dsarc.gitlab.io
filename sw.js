@@ -4,7 +4,7 @@ layout: null
 
 var urlsToCache = [];
 
-var CACHE_NAME = 'james-ives-cache-v1';
+var CACHE_NAME = 'dsarc-cache-v1';
 
 self.addEventListener('install', function(event) {
   // Perform install steps
@@ -18,7 +18,7 @@ self.addEventListener('install', function(event) {
 });
 
 // Cache name: adjust version number to invalidate service worker cachce.
-var CACHE_NAME = 'james-ives-cache-v2';
+var CACHE_NAME = 'dsarc-cache-v1';
 
 self.addEventListener('install', function(event) {
   // Perform install steps
