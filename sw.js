@@ -65,11 +65,11 @@ var urlsToCache = [];
 {% endfor %}
 
 // Cache posts
-{% for post in site.posts %}
-  urlsToCache.push("{{ post.url }}")
-{% endfor %}
+//{% for post in site.posts %}
+//  urlsToCache.push("{{ post.url }}")
+//{% endfor %}
 
 // Cache pages
-{% for page in site.html_pages %}
-  urlsToCache.push("{{ page.url }}")
-{% endfor %}
+//{% for page in site.html_pages %}
+//  urlsToCache.push("{{ page.url }}")
+//{% endfor %}
